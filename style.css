@@ -1,0 +1,86 @@
+#bloc
+{
+  width:100%;
+  height: 70%;
+}
+.carre
+{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  background-color: #2ECC71;
+  width: 80%;
+  height:10%;
+}
+.carre1
+{
+  position: absolute;
+  top:0%;
+  left:80%;
+  background-color: #2980B9;
+  width:20%;
+  height:10%;
+}
+.carre2
+{
+  position: absolute;
+  top:10%;
+  left:0%;
+  background-color: #E74C3C;
+  width:25%;
+  height:20%;
+}
+.carre3
+{
+  position : absolute;
+  top:10%;
+  left:25%;
+  background-color: #E67E22;
+  width:37.5%;
+  height:10%;
+}
+.carre4
+{
+  position : absolute;
+  top:10%;
+  left:62.5%;
+  background-color: #95A5A6;
+  width:37.5%;
+  height:10%;
+}
+.carre5
+{
+  position : absolute;
+  top:20%;
+  left:25%;
+  background-color: #F39C12;
+  width:25%;
+  height:10%;
+}
+.carre6
+{
+  position : absolute;
+  top:20%;
+  left:50%;
+  background-color: #16A085;
+  width:25%;
+  height:10%;
+}
+.carre7
+{
+  position : absolute;
+  top:20%;
+  left:75%;
+  background-color: #D35400;
+  width:25%;
+  height:10%;
+}
+.carre8
+{
+  position : absolute;
+  top:30%;
+  left:0%;
+  background-color: #2c3e50;
+  width:100%;
+  height:30%;
+}
